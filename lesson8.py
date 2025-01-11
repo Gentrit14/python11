@@ -25,3 +25,7 @@ tesla.display_info()
 print("Body Style:", tesla.body_style)
 print("battery capacity", tesla.battery_capacity)
 tesla.charge()
+
+string.length = len("Hello World")
+list.length = len[1,2,3,4,5,6,7,8,9,10]
+tuple.length = len(10,20,30)
